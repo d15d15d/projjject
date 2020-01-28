@@ -1,0 +1,13 @@
+namespace Mas
+{
+  extern int flag[33][33];
+  extern int mines[33][33];
+  extern int numbers[33][33];
+  extern int field[6];
+  extern int m;
+  extern int n;
+  extern int count;
+  extern int mine;
+  extern int before;
+  extern int after;
+}
